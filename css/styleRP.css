@@ -34,7 +34,7 @@ body a:hover, html a:hover {
 }
 body .player, html .player {
   margin-top: 50px;
-  width: 500px;
+  width: 405px;
   height: 75px;
   background: rgb(1, 46, 23,0.064);
   border-bottom: 4px #fcfcfc solid;
