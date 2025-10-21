@@ -50,6 +50,7 @@ body .player .album-art, html .player .album-art {
   height: 100%;
   box-shadow: 3px 0 3px 0 rgba(0, 0, 0, 0.4);
   padding: 2px;
+  
 }
 body .player .album-art .cover, html .player .album-art .cover {
   width: 100%;
