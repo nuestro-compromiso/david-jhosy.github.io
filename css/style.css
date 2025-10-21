@@ -1496,6 +1496,8 @@ background-size: contain;*/
 }
 #fh5co-footer .copyright .block {
   display: block;
+  padding-top: 30px;
+  color:#324f43;
   
 }
 
