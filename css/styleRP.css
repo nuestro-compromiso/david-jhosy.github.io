@@ -56,7 +56,7 @@ body .player .album-art .cover, html .player .album-art .cover {
   width: 100%;
   height: 100%;
   box-shadow: 0 0 3px 2px rgba(0, 0, 0, 0.25);
-  background: url(images/icono.png);
+  background: url('images/icono.png');
   background-size: cover;
 }
 body .player .description, html .player .description {
