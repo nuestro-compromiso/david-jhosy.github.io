@@ -1817,9 +1817,9 @@ background-size: contain;*/
 }
 
 .btn-success {
-  background: #5cb85c;
+  background: #324f43;
   color: #fff;
-  border: 2px solid #5cb85c;
+  border: 2px solid #324f43;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active {
   background: #4cae4c !important;
@@ -1827,11 +1827,11 @@ background-size: contain;*/
 }
 .btn-success.btn-outline {
   background: transparent;
-  color: #5cb85c;
-  border: 2px solid #5cb85c;
+  color: #324f43;
+  border: 2px solid #324f43;
 }
 .btn-success.btn-outline:hover, .btn-success.btn-outline:focus, .btn-success.btn-outline:active {
-  background: #5cb85c;
+  background: #324f43;
   color: #fff;
 }
 
